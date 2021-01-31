@@ -1,5 +1,7 @@
 <h2>Hi, I'm Dang Cao 👋</h2>
 
+! [] (https://komarev.com/ghpvc/?username=dangcao410&color=green)
+
 <!--
 **dangcao410/dangcao410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
