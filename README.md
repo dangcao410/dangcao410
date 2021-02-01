@@ -1,6 +1,6 @@
 <h1><img src="img/blob-sunglasses.gif" width="30"/> Hi, I'm Dang Cao 👋</h1>
 
-<table border="none">
+<table style="border: none;">
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
