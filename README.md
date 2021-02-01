@@ -1,18 +1,14 @@
 <h1><img src="img/blob-sunglasses.gif" width="30"/> Hi, I'm Dang Cao 👋</h1>
 
-<table style="border: 1px solid red">
+<table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
-      </a>
-      <br>C
+        <img src="img/c.svg" width="48" height="48" alt="C" />
+        <br>C
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>HTML
+        <img src="img/html5.svg" width="48" height="48" alt="HTML5" />
+        <br>HTML5
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
