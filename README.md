@@ -11,10 +11,8 @@
         <br>HTML5
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/go-original.svg" width="48" height="48" alt="Golang" />
-      </a>
-      <br>CSS
+      <img src="img/css3.svg" width="48" height="48" alt="CSS3" />
+      <br>CSS3
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
