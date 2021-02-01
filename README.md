@@ -19,27 +19,19 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
+      <img src="img/laravel.svg" width="48" height="48" alt="Laravel" />
       <br>Laravel
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
+      <img src="img/nodejs.svg" width="48" height="48" alt="NodeJS" />
       <br>NodeJS
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
-      </a>
+      <img src="img/vuejs.svg" width="48" height="48" alt="NodeJS" />
       <br>VueJS
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
+      <img src="img/bootstrap.svg" width="48" height="48" alt="Bootstrap" />
       <br>Bootstrap
     </td>
   </tr>
