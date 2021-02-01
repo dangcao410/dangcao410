@@ -93,6 +93,6 @@ Here are some ideas to get you started:
 
 <style type="text/css">
     table tr td{
-        border: 1px solid #ffffff;
+        border: 1px solid red;
     }
 </style>
