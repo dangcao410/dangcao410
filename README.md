@@ -15,7 +15,7 @@
       <br>CSS3
     </td>
     <td align="center" width="96">
-      <img src="img/javascript.png" width="48" height="48" alt="JavaScript" />
+      <img src="img/javascript.svg" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
