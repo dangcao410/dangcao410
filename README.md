@@ -1,8 +1,8 @@
 <h1><img src="img/blob-sunglasses.gif" width="30"/> Hi, I'm Dang Cao 👋</h1>
 
-<table style="border: none;">
-  <tr style="border: none;">
-    <td align="center" width="96" style="border: none;">
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
       </a>
