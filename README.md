@@ -11,13 +11,11 @@
         <br>HTML5
     </td>
     <td align="center" width="96">
-      <img src="img/css3.svg" width="48" height="48" alt="CSS3" />
+      <img src="img/css3.png" width="48" height="48" alt="CSS3" />
       <br>CSS3
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
-      </a>
+      <img src="img/javascript.png" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
