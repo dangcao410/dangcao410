@@ -1,6 +1,6 @@
 <h1><img src="img/blob-sunglasses.gif" width="30"/> Hi, I'm Dang Cao 👋</h1>
 
-<table class="languages" style="border: none;">
+<table style="border: none;">
   <tr style="border: none;">
     <td align="center" width="96" style="border: none;">
       <a href="#macropower-tech">
@@ -91,8 +91,8 @@ Here are some ideas to get you started:
 -->
 
 
-<style>
-    .languages tr{
+<style type="text/css">
+    table td{
         border: none;
     }
 </style>
