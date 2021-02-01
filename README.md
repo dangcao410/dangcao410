@@ -1,8 +1,8 @@
 <h1><img src="img/blob-sunglasses.gif" width="30"/> Hi, I'm Dang Cao 👋</h1>
 
-<table class="languages">
+<table class="languages" style="border: none;">
   <tr style="border: none;">
-    <td align="center" width="96">
+    <td align="center" width="96" style="border: none;">
       <a href="#macropower-tech">
         <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
       </a>
