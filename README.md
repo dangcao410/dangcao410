@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 
 
 <style type="text/css">
-    table tr td{
+    table{
         border: 1px solid red;
     }
 </style>
