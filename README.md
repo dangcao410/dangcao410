@@ -1,6 +1,6 @@
 <h1><img src="img/blob-sunglasses.gif" width="30"/> Hi, I'm Dang Cao 👋</h1>
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table>
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 
 
 <style type="text/css">
-    table{
-        border-collapse:collapse;
+    table tr td{
+        border: 1px solid #ffffff;
     }
 </style>
