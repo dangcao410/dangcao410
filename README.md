@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 
 
 <style type="text/css">
-    table td{
-        border: none;
+    table{
+        border-collapse:collapse;
     }
 </style>
