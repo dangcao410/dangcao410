@@ -1,13 +1,16 @@
 <h1><img src="img/blob-sunglasses.gif" width="30"/> Hi, I'm Dang Cao 👋</h1>
 
 <div>
-    
-<img src="img/c.svg" width="48" height="48" alt="C" />
-        
-
-<img src="img/c.svg" width="48" height="48" alt="C" />
-        
-
+    <h2>Languages and Frameworks</h2>
+    <div>
+        <img src="img/c.svg" width="48" height="48" alt="C" />
+        <img src="img/html5.svg" width="48" height="48" alt="HTML5" />
+        <img src="img/css3.png" width="48" height="48" alt="CSS3" />
+        <img src="img/javascript.svg" width="48" height="48" alt="JavaScript" />
+        <img src="img/laravel.svg" width="48" height="48" alt="Laravel" />
+        <img src="img/nodejs.svg" width="48" height="48" alt="NodeJS" />
+        <img src="img/bootstrap.svg" width="48" height="48" alt="Bootstrap" />
+    </div>
 </div>
 
 
