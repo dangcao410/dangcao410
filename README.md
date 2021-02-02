@@ -50,7 +50,7 @@
         <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="img/mongodb.png" width="48" height="48" alt="MongoDB" />
+      <img src="img/mongodb.svg" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>
   </tr>
