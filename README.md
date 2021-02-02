@@ -1,14 +1,13 @@
 <h1><img src="img/blob-sunglasses.gif" width="30"/> Hi, I'm Dang Cao 👋</h1>
 
 <div>
-    <p >
+    
 <img src="img/c.svg" width="48" height="48" alt="C" />
         
-    </p>
-<p>
+
 <img src="img/c.svg" width="48" height="48" alt="C" />
         
-    </p>
+
 </div>
 
 
