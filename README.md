@@ -24,7 +24,7 @@
       <br>Laravel
     </td>
     <td align="center" width="96">
-      <img src="img/nodejs.svg" width="48" height="48" alt="NodeJS" />
+      <img src="img/nodejs.png" width="48" height="48" alt="NodeJS" />
       <br>NodeJS
     </td>
     <td align="center" width="96">
