@@ -68,7 +68,7 @@
         <br>GitHub
     </td>
     <td align="center" width="96">
-      <img src="img/css3.png" width="48" height="48" alt="GitLab" />
+      <img src="img/gitlab.png" width="48" height="48" alt="GitLab" />
       <br>GitLab
     </td>
   </tr>
