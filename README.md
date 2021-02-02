@@ -85,6 +85,10 @@
 <br>
 
 ---
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=dangcao410&show_icons=true)
+
+---
 ![](https://komarev.com/ghpvc/?username=dangcao410&color=blue)
 
 <!--
