@@ -1,5 +1,17 @@
 <h1><img src="img/blob-sunglasses.gif" width="30"/> Hi, I'm Dang Cao 👋</h1>
 
+<div height="100">
+    <p>
+<img src="img/c.svg" width="48" height="48" alt="C" />
+        <br>C
+    </p>
+<p>
+<img src="img/c.svg" width="48" height="48" alt="C" />
+        <br>C
+    </p>
+</div>
+
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -111,9 +123,5 @@ Here are some ideas to get you started:
     table{
         border: 1px solid red;
     }
-h1{
-color: red;
-
-}
 </style>
 
