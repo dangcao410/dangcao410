@@ -14,35 +14,35 @@
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="img/c.svg" width="48" height="48" alt="C" />
+        <img src="img/c.svg" alt="C" />
         <br>C
     </td>
     <td align="center" width="96">
-        <img src="img/html5.svg" width="48" height="48" alt="HTML5" />
+        <img src="img/html5.svg" alt="HTML5" />
         <br>HTML5
     </td>
     <td align="center" width="96">
-      <img src="img/css3.png" width="48" height="48" alt="CSS3" />
+      <img src="img/css3.png" alt="CSS3" />
       <br>CSS3
     </td>
     <td align="center" width="96">
-      <img src="img/javascript.svg" width="48" height="48" alt="JavaScript" />
+      <img src="img/javascript.svg" alt="JavaScript" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="img/laravel.svg" width="48" height="48" alt="Laravel" />
+      <img src="img/laravel.svg" alt="Laravel" />
       <br>Laravel
     </td>
     <td align="center" width="96">
-      <img src="img/nodejs.svg" width="48" height="48" alt="NodeJS" />
+      <img src="img/nodejs.svg" alt="NodeJS" />
       <br>NodeJS
     </td>
     <td align="center" width="96">
-      <img src="img/vuejs.svg" width="48" height="48" alt="NodeJS" />
+      <img src="img/vuejs.svg" alt="NodeJS" />
       <br>VueJS
     </td>
     <td align="center" width="96">
-      <img src="img/bootstrap.svg" width="48" height="48" alt="Bootstrap" />
+      <img src="img/bootstrap.svg" alt="Bootstrap" />
       <br>Bootstrap
     </td>
   </tr>
