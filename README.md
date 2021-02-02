@@ -60,11 +60,11 @@
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="img/c.svg" width="48" height="48" alt="Git" />
+        <img src="img/git.png" width="48" height="48" alt="Git" />
         <br>Git
     </td>
     <td align="center" width="96">
-        <img src="img/html5.svg" width="48" height="48" alt="GitHub" />
+        <img src="img/github.png" width="48" height="48" alt="GitHub" />
         <br>GitHub
     </td>
     <td align="center" width="96">
