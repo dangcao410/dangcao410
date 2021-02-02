@@ -3,14 +3,14 @@
 
 <div>
     <div align="center">
-<p>
+<span>
 <img src="img/c.svg" width="48" height="48" alt="C" />
         <br>C
-</p>
-<p>
+</span>
+<span>
 <img src="img/c.svg" width="48" height="48" alt="C" />
         <br>C
-</p>
+</span>
         
     </div>
 </div>
