@@ -1,21 +1,6 @@
 <h1><img src="img/blob-sunglasses.gif" width="30"/> Hi, I'm Dang Cao 👋</h1>
 
-<div>
-    <h2>Languages and Frameworks</h2>
-    <div>
-        <p align="left"><img src="img/c.svg" width="48" height="48" alt="C" /></p>
-        <p align="left"><img src="img/html5.svg" width="48" height="48" alt="HTML5" /></p>
-        
-
-        <img src="img/css3.png" width="48" height="48" alt="CSS3" />
-        <img src="img/javascript.svg" width="48" height="48" alt="JavaScript" />
-        <img src="img/laravel.svg" width="48" height="48" alt="Laravel" />
-        <img src="img/nodejs.svg" width="48" height="48" alt="NodeJS" />
-        <img src="img/bootstrap.svg" width="48" height="48" alt="Bootstrap" />
-    </div>
-</div>
-
-
+<h3>Languages and Frameworks</h3>
 <table>
   <tr>
     <td align="center" width="96">
@@ -53,35 +38,37 @@
   </tr>
 </table>
 
+<h3>Databases</h3>
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="img/c.svg" width="48" height="48" alt="C" />
+        <img src="img/sql-server.png" width="48" height="48" alt="SQL Server" />
         <br>SQL Server
     </td>
     <td align="center" width="96">
-        <img src="img/html5.svg" width="48" height="48" alt="HTML5" />
+        <img src="img/mysql.png" width="48" height="48" alt="MySQL" />
         <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="img/css3.png" width="48" height="48" alt="CSS3" />
+      <img src="img/mongodb.png" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>
   </tr>
 </table>
 
+<h3>Others</h3>
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="img/c.svg" width="48" height="48" alt="C" />
+        <img src="img/c.svg" width="48" height="48" alt="Git" />
         <br>Git
     </td>
     <td align="center" width="96">
-        <img src="img/html5.svg" width="48" height="48" alt="HTML5" />
+        <img src="img/html5.svg" width="48" height="48" alt="GitHub" />
         <br>GitHub
     </td>
     <td align="center" width="96">
-      <img src="img/css3.png" width="48" height="48" alt="CSS3" />
+      <img src="img/css3.png" width="48" height="48" alt="GitLab" />
       <br>GitLab
     </td>
   </tr>
