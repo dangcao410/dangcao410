@@ -46,7 +46,7 @@
         <br>SQL Server
     </td>
     <td align="center" width="96">
-        <img src="img/mysql.png" width="48" height="48" alt="MySQL" />
+        <img src="img/mySql.png" width="48" height="48" alt="MySQL" />
         <br>MySQL
     </td>
     <td align="center" width="96">
