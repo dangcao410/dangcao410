@@ -2,13 +2,16 @@
 
 
 <div>
-    <div align="center" float="left" width="96">
-        <img src="img/c.svg" width="48" height="48" alt="C" />
+    <div align="center">
+<p>
+<img src="img/c.svg" width="48" height="48" alt="C" />
         <br>C
-    </div>
-    <div float="left" width="96">
-        <img src="img/html5.svg" width="48" height="48" alt="HTML5" />
-        <br>HTML5
+</p>
+<p>
+<img src="img/c.svg" width="48" height="48" alt="C" />
+        <br>C
+</p>
+        
     </div>
 </div>
 
