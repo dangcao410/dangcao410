@@ -2,11 +2,11 @@
 
 
 <div>
-    <div style="float: left; width: 96px" >
+    <div align="center" float="left" width="96">
         <img src="img/c.svg" width="48" height="48" alt="C" />
         <br>C
     </div>
-    <div style="float: left; width: 96px" >
+    <div float="left" width="96">
         <img src="img/html5.svg" width="48" height="48" alt="HTML5" />
         <br>HTML5
     </div>
