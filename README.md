@@ -1,24 +1,8 @@
 <h1><img src="img/blob-sunglasses.gif" width="30"/> Hi, I'm Dang Cao 👋</h1>
 
-
-<div>
-    <div align="center">
-<span>
-<img src="img/c.svg" width="48" height="48" alt="C" />
-        <br>C
-</span>
-<span>
-<img src="img/c.svg" width="48" height="48" alt="C" />
-        <br>C
-</span>
-        
-    </div>
-</div>
-
-
 <table>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="960">
         <img src="img/c.svg" width="48" height="48" alt="C" />
         <br>C
     </td>
