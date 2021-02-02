@@ -77,11 +77,13 @@
 <br>
 
 ---
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=dangcao410&show_icons=true">
+
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=dangcao410&show_icons=true">
+
 
 <br>
 <br>
