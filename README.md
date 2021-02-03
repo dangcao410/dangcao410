@@ -84,7 +84,7 @@
     </td>
     <td align="center" width="96">
       <img src="img/visual-studio-code.svg" width="48" height="48" alt="Visual Studio Code" />
-      <br>VSC
+      <br>VS Code
     </td>
     <td align="center" width="96">
       <img src="img/webstorm-logo.png" width="48" height="48" alt="WebStorm" />
