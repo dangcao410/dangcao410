@@ -2,14 +2,6 @@
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=dangcao410&show_icons=true">
 
-<p align="left">
-  <a href="https://github.com/dangcao410/dangcao410">
-    <img src="https://komarev.com/ghpvc/?username=dangcao410" alt="page views" />
-  </a>
-  <a href="https://github.com/dangcao410?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/dangcao410?color=green&logo=github">
-  </a>
-</p>
 
 ### Spotify Playing 🎧
 <br>
@@ -117,6 +109,8 @@
 
 ---
 ![](https://komarev.com/ghpvc/?username=dangcao410&color=blue)
+![](https://img.shields.io/github/followers/dangcao410?color=green&logo=github)
+
 
 <!--
 **dangcao410/dangcao410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
