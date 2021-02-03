@@ -87,11 +87,11 @@
       <br>VSC
     </td>
     <td align="center" width="96">
-      <img src="img/webstorm.png" width="48" height="48" alt="WebStorm" />
+      <img src="img/webstorm-logo.png" width="48" height="48" alt="WebStorm" />
       <br>WebStorm
     </td>
     <td align="center" width="96">
-      <img src="img/phpstorm.png" width="48" height="48" alt="PHPStorm" />
+      <img src="img/phpstorm-logo.png" width="48" height="48" alt="PHPStorm" />
       <br>PHPStorm
     </td>
     <td align="center" width="96">
