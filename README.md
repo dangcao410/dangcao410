@@ -2,7 +2,6 @@
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=dangcao410&show_icons=true">
 
-
 ### Spotify Playing 🎧
 <br>
 
