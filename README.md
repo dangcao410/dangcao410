@@ -82,6 +82,10 @@
       <img src="img/gitlab.png" width="48" height="48" alt="GitLab" />
       <br>GitLab
     </td>
+    <td align="center" width="96">
+      <img src="img/gitlab.png" width="48" height="48" alt="Adobe Photoshop" />
+      <br>Adobe Photoshop
+    </td>
   </tr>
 </table>
 <br>
