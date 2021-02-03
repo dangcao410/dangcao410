@@ -83,6 +83,22 @@
       <br>GitLab
     </td>
     <td align="center" width="96">
+      <img src="img/visual-studio-code.svg" width="48" height="48" alt="Visual Studio Code" />
+      <br>VSC
+    </td>
+    <td align="center" width="96">
+      <img src="img/webstorm.png" width="48" height="48" alt="WebStorm" />
+      <br>WebStorm
+    </td>
+    <td align="center" width="96">
+      <img src="img/phpstorm.png" width="48" height="48" alt="PHPStorm" />
+      <br>PHPStorm
+    </td>
+    <td align="center" width="96">
+      <img src="img/postman.svg" width="48" height="48" alt="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="96">
       <img src="img/photoshop.png" width="48" height="48" alt="Photoshop" />
       <br>Photoshop
     </td>
