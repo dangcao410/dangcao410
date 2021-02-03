@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="img/c.svg" width="48" height="48" alt="C" />
+        <img src="img/c-logo.png" width="48" height="48" alt="C" />
         <br>C
     </td>
     <td align="center" width="96">
@@ -84,6 +84,11 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 <br>
+
+---
+
+[![](https://raw.githubusercontent.com/dangcao410/testtest/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 ---
 ![](https://komarev.com/ghpvc/?username=dangcao410&color=blue)
