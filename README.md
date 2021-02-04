@@ -114,10 +114,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | Football | Games  | Books | Movies | Stargazing | Photography | Travelling |
 
-| :pencil2: | :video_game: | :book: | :clapper: | :telescope: |
-| --- | --- | --- | --- | --- |
-| Blogs | Games | Books | Movies | Stargazing |
-
 <br>
 
 ---
