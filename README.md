@@ -15,6 +15,10 @@
 <table>
   <tr>
     <td align="center" width="96">
+        <img src="img/html5.svg" width="48" height="48" alt="HTML5" />
+        <br>HTML5
+    </td>
+    <td align="center" width="96">
         <img src="img/c-logo.png" width="48" height="48" alt="C" />
         <br>C
     </td>
