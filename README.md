@@ -109,13 +109,14 @@
 ---
 
 <h3>Hobbies</h3>
+
 | :soccer: | :video_game: | :book: | :clapper: | :telescope: | :camera: | :earth_asia: |
 | --- | --- | --- | --- | --- | --- | --- |
 | Football | Games  | Books | Movies | Stargazing | Photography | Travelling |
 
-| :pencil2: | :video_game: | :book: |:clapper:  |
-| --- | --- | --- | --- |
-| Blogs | Games | Books | Movies |
+| :pencil2: | :video_game: | :book: | :clapper: | :telescope: |
+| --- | --- | --- | --- | --- |
+| Blogs | Games | Books | Movies | Stargazing |
 
 <br>
 
