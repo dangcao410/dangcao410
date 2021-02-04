@@ -107,7 +107,7 @@
 <br>
 
 ---
-[![](https://raw.githubusercontent.com/dangcao410/testtest/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/dangcao410/profile-summary-cards/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 ---
