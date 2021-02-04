@@ -15,7 +15,7 @@
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="img/c-logo.svg" width="48" height="48" alt="C" />
+        <img src="img/c-logo.svg" width="48px" height="48px" alt="C" />
         <br>C
     </td>
     <td align="center" width="96">
