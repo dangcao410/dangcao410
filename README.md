@@ -109,9 +109,9 @@
 ---
 
 <h3>Hobbies</h3>
-| :soccer: | :video_game: | :book: | :clapper: | :telescope: | :camera: | :earth_asia:
+| :soccer: | :video_game: | :book: | :clapper: | :telescope: | :camera: | :earth_asia: |
 | --- | --- | --- | --- | --- | --- | --- |
-| Football |Games  | Books | Movies | Stargazing | Photography | Travelling
+| Football |Games  | Books | Movies | Stargazing | Photography | Travelling |
 
 <br>
 
