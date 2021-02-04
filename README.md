@@ -107,9 +107,11 @@
 <br>
 
 ---
-| :football: | :video_game: | :book: | :clapper: |
-| --- | --- | --- | --- |
-| Football |Games  | Books | Movies |
+
+<h3>Hobbies</h3>
+| :soccer: | :video_game: | :book: | :clapper: | :telescope: | :camera: | :earth_asia:
+| --- | --- | --- | --- | --- | --- | --- |
+| Football |Games  | Books | Movies | Stargazing | Photography | Travelling
 
 ---
 ![](https://komarev.com/ghpvc/?username=dangcao410&color=blue)
