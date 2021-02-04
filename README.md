@@ -12,11 +12,10 @@
 ---
 
 <h3>Languages and Frameworks</h3>
-
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="img/c-logo.svg" width="48" height="48" alt="C" />
+        <img src="img/c-language-logo.png" width="48" height="48" alt="C" />
         <br>C
     </td>
     <td align="center" width="96">
