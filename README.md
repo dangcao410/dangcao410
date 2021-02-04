@@ -107,8 +107,9 @@
 <br>
 
 ---
-[![](https://raw.githubusercontent.com/dangcao410/profile-summary-cards/master/profile-summary-card-output/solarized/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
+| :football: | :video_game: | :book: | :clapper: |
+| --- | --- | --- | --- |
+| Football |Games  | Books | Movies |
 
 ---
 ![](https://komarev.com/ghpvc/?username=dangcao410&color=blue)
