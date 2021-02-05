@@ -51,6 +51,10 @@
       <img src="img/bootstrap.svg" width="48" height="48" alt="Bootstrap" />
       <br>Bootstrap
     </td>
+    <td align="center" width="96">
+      <img src="img/jquery.png" width="48" height="48" alt="jQuery" />
+      <br>jQuery
+    </td>
   </tr>
 </table>
 
