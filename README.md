@@ -1,6 +1,6 @@
 <p>
   <img src="https://count.getloli.com/get/@:dangcao410">
-  <img src="img/developer.gif" align="right" width="200">
+  <img src="img/developer.gif" align="right" width="180">
 </p>
 
 <h1 align="center"><img src="img/blob-sunglasses.gif" width="30"/> Hi, I'm Dang Cao 👋</h1>
