@@ -63,7 +63,7 @@
   <tr>
     <td align="center" width="96">
         <img src="img/sql-server.png" width="48" height="48" alt="SQL Server" />
-        <br>SQLServer
+        <br>SQL Server
     </td>
     <td align="center" width="96">
         <img src="img/mySql.png" width="48" height="48" alt="MySQL" />
