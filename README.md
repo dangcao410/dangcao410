@@ -113,10 +113,6 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dangcao410)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 <h3>Hobbies</h3>
 
 | :soccer: | :video_game: | :book: | :clapper: | :telescope: | :camera: | :earth_asia: |
