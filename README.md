@@ -125,7 +125,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dangcao410&layout=compact&hide_title=true&hide_border=true)](https://github.com/thangnm93/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dangcao410&layout=compact&hide_title=true&hide_border=true)](https://github.com/dangcao410/github-readme-stats)
 
 ---
 ![](https://komarev.com/ghpvc/?username=dangcao410&color=blue)
