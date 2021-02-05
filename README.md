@@ -19,7 +19,7 @@
         <br>C
     </td>
     <td align="center" width="96">
-        <img src="img/html-logo.png" width="48" height="48" alt="HTML5" />
+        <img src="img/html.png" width="48" height="48" alt="HTML5" />
         <br>HTML5
     </td>
     <td align="center" width="96">
