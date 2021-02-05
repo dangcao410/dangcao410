@@ -1,6 +1,6 @@
 <p>
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:dangcao410"></a>
-  <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
+  <img src="img/developer.gif" align="right">
 </p>
 
 <h1 align="center"><img src="img/blob-sunglasses.gif" width="30"/> Hi, I'm Dang Cao 👋</h1>
