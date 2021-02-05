@@ -117,6 +117,8 @@
 
 ---
 
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=dangcao410&hide_title=true&hide_border=true)
+
 <h3>Hobbies</h3>
 
 | :soccer: | :video_game: | :book: | :clapper: | :telescope: | :camera: | :earth_asia: |
