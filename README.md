@@ -113,6 +113,14 @@
 
 ---
 
+<p align="center">
+	<a href="https://github.com/muskanrani/github-readme-stats">
+	  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangpro1610" />
+	</a>
+</p>
+
+---
+
 <h3>Hobbies</h3>
 
 | :soccer: | :video_game: | :book: | :clapper: | :telescope: | :camera: | :earth_asia: |
