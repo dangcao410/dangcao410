@@ -36,11 +36,13 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
+      <img src="img/jquery.png" width="48" height="48" alt="jQuery" />
+      <br>jQuery
+    </td>
+    <td align="center" width="96">
       <img src="img/laravel.svg" width="48" height="48" alt="Laravel" />
       <br>Laravel
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="img/nodejs.png" width="48" height="48" alt="NodeJS" />
       <br>NodeJS
@@ -52,10 +54,6 @@
     <td align="center" width="96">
       <img src="img/bootstrap.svg" width="48" height="48" alt="Bootstrap" />
       <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <img src="img/jquery.png" width="48" height="48" alt="jQuery" />
-      <br>jQuery
     </td>
   </tr>
 </table>
@@ -99,11 +97,11 @@
     </td>
     <td align="center" width="96">
       <img src="img/webstorm-logo.png" width="48" height="48" alt="WebStorm" />
-      <br>Web Storm
+      <br>WebStorm
     </td>
     <td align="center" width="96">
       <img src="img/phpstorm-logo.png" width="48" height="48" alt="PHPStorm" />
-      <br>PHP Storm
+      <br>PHPStorm
     </td>
     <td align="center" width="96">
       <img src="img/postman.svg" width="48" height="48" alt="Postman" />
