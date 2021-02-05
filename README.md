@@ -39,12 +39,14 @@
       <img src="img/laravel.svg" width="48" height="48" alt="Laravel" />
       <br>Laravel
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="img/nodejs.png" width="48" height="48" alt="NodeJS" />
       <br>NodeJS
     </td>
     <td align="center" width="96">
-      <img src="img/vuejs.svg" width="48" height="48" alt="NodeJS" />
+      <img src="img/vuejs.svg" width="48" height="48" alt="VueJS" />
       <br>VueJS
     </td>
     <td align="center" width="96">
