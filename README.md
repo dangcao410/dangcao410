@@ -113,11 +113,7 @@
 
 ---
 
-<p align="center">
-	<a href="https://github.com/muskanrani/github-readme-stats">
-	  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangcao410" />
-	</a>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dangcao410)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
