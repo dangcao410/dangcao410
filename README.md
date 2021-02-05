@@ -19,15 +19,15 @@
         <br>C
     </td>
     <td align="center" width="96">
-        <img src="img/html.png" width="48" height="48" alt="HTML5" />
+        <img src="img/html-final.png" width="48" height="48" alt="HTML5" />
         <br>HTML5
     </td>
     <td align="center" width="96">
-      <img src="img/css3.png" width="48" height="48" alt="CSS3" />
+      <img src="img/css-final.png" width="48" height="48" alt="CSS3" />
       <br>CSS3
     </td>
     <td align="center" width="96">
-      <img src="img/javascript.svg" width="48" height="48" alt="JavaScript" />
+      <img src="img/javascript-final.png" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
