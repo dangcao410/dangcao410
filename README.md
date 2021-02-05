@@ -117,7 +117,7 @@
 
 ---
 
-![](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=dangcao410)
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=dangcao410)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>Hobbies</h3>
 
