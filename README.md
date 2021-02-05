@@ -117,7 +117,18 @@
 
 ---
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=dangcao410)
+<!-- code_time starts -->
+
+```text
+Markdown           31 mins  ████████████████████▒░░░  71.1%
+Bash               10 mins  █████████▒░░░░░░░░░░░░░░  24.6%
+JavaScript          0 secs  ███▓░░░░░░░░░░░░░░░░░░░░   1.4%
+HTML                0 secs  ███▓░░░░░░░░░░░░░░░░░░░░   1.0%
+Other               0 secs  ███▓░░░░░░░░░░░░░░░░░░░░   0.8%
+Java                0 secs  ███▓░░░░░░░░░░░░░░░░░░░░   0.7%
+```
+
+<!-- code_time ends -->
 
 <h3>Hobbies</h3>
 
