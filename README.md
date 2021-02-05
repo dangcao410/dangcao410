@@ -99,11 +99,11 @@
     </td>
     <td align="center" width="96">
       <img src="img/webstorm-logo.png" width="48" height="48" alt="WebStorm" />
-      <br>WebStorm
+      <br>Web Storm
     </td>
     <td align="center" width="96">
       <img src="img/phpstorm-logo.png" width="48" height="48" alt="PHPStorm" />
-      <br>PHPStorm
+      <br>PHP Storm
     </td>
     <td align="center" width="96">
       <img src="img/postman.svg" width="48" height="48" alt="Postman" />
