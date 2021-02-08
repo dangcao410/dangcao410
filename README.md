@@ -12,7 +12,7 @@
 
 ---
 
-<img src="img/developer.gif" align="right" width="150">
+<img src="img/developer.gif" align="right" width="350">
 
 <h3>Languages and Frameworks</h3>
 <img src="img/c-language-logo.png" width="30" height="30" alt="C" align="left"/>
