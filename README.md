@@ -172,9 +172,9 @@
 
 <img width="100%" align="center" src="https://raw.githubusercontent.com/dangcao410/github-profile-summary/master/profile-summary-card-output/solarized/0-profile-details.svg">
 
-<img width="49%" align="left" src="https://raw.githubusercontent.com/dangcao410/github-profile-summary/master/profile-summary-card-output/solarized/1-repos-per-language.svg">
+<img width="49%" height="50px" align="left" src="https://raw.githubusercontent.com/dangcao410/github-profile-summary/master/profile-summary-card-output/solarized/1-repos-per-language.svg">
 
-<img width="48%" src="https://raw.githubusercontent.com/dangcao410/github-profile-summary/master/profile-summary-card-output/solarized/2-most-commit-language.svg">
+<img width="48%" height="50px" src="https://raw.githubusercontent.com/dangcao410/github-profile-summary/master/profile-summary-card-output/solarized/2-most-commit-language.svg">
 
 
 ---
