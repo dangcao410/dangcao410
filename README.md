@@ -37,7 +37,7 @@
 <img src="img/git.png" width="30" height="30" alt="Git" align="left"/>
 <img src="img/github.png" width="30" height="30" alt="GitHub" align="left"/>
 <img src="img/gitlab.png" width="30" height="30" alt="GitLab" align="left"/>
-<img src="img/postman.svg" width="30" height="30" alt="Postman" align="left"/>
+<img src="img/postman.svg" width="30" height="30" alt="Postman" />
 
 [comment]: <> (<img src="img/visual-studio-code.svg" width="30" height="30" alt="Visual Studio Code" align="left"/>)
 [comment]: <> (<img src="img/webstorm-logo.png" width="30" height="30" alt="WebStorm" align="left"/>)
