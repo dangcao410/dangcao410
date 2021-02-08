@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" alt="GIF" src="img/code.gif?raw=true" width="400"/>
+<img align="right" alt="GIF" src="img/code.gif?raw=true" width="350"/>
 
 
 <h3>Languages and Frameworks</h3>
