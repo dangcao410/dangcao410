@@ -166,9 +166,6 @@
 | Football | Games  | Books | Movies | Stargazing | Photography | Travelling |
 -->
 
-
-<br>
-
 ---
 ![](https://komarev.com/ghpvc/?username=dangcao410&color=blue)
 ![](https://img.shields.io/github/followers/dangcao410?color=green&logo=github)
