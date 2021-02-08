@@ -1,4 +1,4 @@
-<img src="img/header_white.png"/>
+<img src="img/header.png"/>
 <h1 align="center"><img src="img/blob-sunglasses.gif" width="30"/> Hi, I'm Dang Cao 👋</h1>
 
 
