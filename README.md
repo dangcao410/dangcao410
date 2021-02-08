@@ -149,9 +149,9 @@
 -->
 ---
 
-<h5>Hobbies</h5>
+<h3>Hobbies</h3>
 
-:soccer: -- :video_game: -- :book: -- :clapper: -- :telescope: -- :camera: -- :earth_asia:
+:soccer: &nbsp :video_game: &nbsp :book: &nbsp :clapper: &nbsp :telescope: &nbsp :camera: &nbsp :earth_asia:
 
 
 <!--
