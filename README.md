@@ -151,7 +151,7 @@
 
 <h3>Hobbies</h3>
 
-:soccer: &nbsp :video_game: &nbsp :book: &nbsp :clapper: &nbsp :telescope: &nbsp :camera: &nbsp :earth_asia:
+:soccer: &nbsp; :video_game: &nbsp :book: &nbsp :clapper: &nbsp :telescope: &nbsp :camera: &nbsp :earth_asia:
 
 
 <!--
