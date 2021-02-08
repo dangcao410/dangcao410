@@ -17,8 +17,8 @@
 ---
 
 <h3>Languages and Frameworks</h3>
-<img src="img/c-language-logo.png" width="30" height="30" alt="C" />
-<img src="img/html-final.png" width="30" height="30" alt="HTML5" />
+<img src="img/c-language-logo.png" width="30" height="30" alt="C" align="left"/>
+<img src="img/html-final.png" width="30" height="30" alt="HTML5" align="left" />
 <img src="img/css-final.png" width="30" height="30" alt="CSS3" />
 <img src="img/javascript-final.png" width="30" height="30" alt="JavaScript" />
 <img src="img/jquery.png" width="30" height="30" alt="jQuery" />
