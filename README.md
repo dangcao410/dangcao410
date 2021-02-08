@@ -151,7 +151,7 @@
 
 <h3>Hobbies</h3>
 
-:soccer: Football
+:soccer: Football <br>
 :video_game: Games
 :book: Books
 :clapper: Movies
