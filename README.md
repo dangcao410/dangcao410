@@ -172,13 +172,14 @@
 
 ![](https://raw.githubusercontent.com/dangcao410/github-profile-summary/master/profile-summary-card-output/solarized/0-profile-details.svg)
 
-<img src="https://raw.githubusercontent.com/dangcao410/github-profile-summary/master/profile-summary-card-output/solarized/1-repos-per-language.svg">
+<img align="left" src="https://raw.githubusercontent.com/dangcao410/github-profile-summary/master/profile-summary-card-output/solarized/1-repos-per-language.svg">
 
 <img align="right" src="https://raw.githubusercontent.com/dangcao410/github-profile-summary/master/profile-summary-card-output/solarized/2-most-commit-language.svg">
 
 
 ---
-![](https://komarev.com/ghpvc/?username=dangcao410&color=blue)
+<img align="left" src="https://komarev.com/ghpvc/?username=dangcao410&color=blue">
+
 ![](https://img.shields.io/github/followers/dangcao410?color=green&logo=github)
 ![Made with love in Vietnam](https://madewithlove.now.sh/vn?heart=true)
 
