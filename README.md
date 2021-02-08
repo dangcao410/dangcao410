@@ -152,11 +152,11 @@
 <h3>Hobbies</h3>
 
 :soccer: Football <br>
-:video_game: Games
-:book: Books
-:clapper: Movies
-:telescope: Stargazing
-:camera: Photography
+:video_game: Games <br>
+:book: Books <br>
+:clapper: Movies <br>
+:telescope: Stargazing <br>
+:camera: Photography <br>
 :earth_asia: Travelling
 
 
