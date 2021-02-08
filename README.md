@@ -1,7 +1,3 @@
-<p>
-  <img src="https://count.getloli.com/get/@:dangcao410">
-  <img src="img/developer.gif" align="right" width="150">
-</p>
 
 <h1 align="center"><img src="img/blob-sunglasses.gif" width="30"/> Hi, I'm Dang Cao 👋</h1>
 
@@ -42,6 +38,8 @@
 [comment]: <> (<img src="img/webstorm-logo.png" width="30" height="30" alt="WebStorm" align="left"/>)
 [comment]: <> (<img src="img/phpstorm-logo.png" width="30" height="30" alt="PHPStorm" align="left"/>)
 [comment]: <> (<img src="img/photoshop.png" width="30" height="30" alt="Photoshop" />)
+
+<img src="img/developer.gif" align="right" width="150">
 
 <!--
 
