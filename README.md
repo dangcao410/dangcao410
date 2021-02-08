@@ -12,6 +12,8 @@
 
 ---
 
+<img src="img/developer.gif" align="right" width="150">
+
 <h3>Languages and Frameworks</h3>
 <img src="img/c-language-logo.png" width="30" height="30" alt="C" align="left"/>
 <img src="img/html-final.png" width="30" height="30" alt="HTML5" align="left"/>
@@ -39,7 +41,7 @@
 [comment]: <> (<img src="img/phpstorm-logo.png" width="30" height="30" alt="PHPStorm" align="left"/>)
 [comment]: <> (<img src="img/photoshop.png" width="30" height="30" alt="Photoshop" />)
 
-<img src="img/developer.gif" align="right" width="150">
+
 
 <!--
 
