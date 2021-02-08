@@ -173,7 +173,7 @@
 
 <img width="48%" align="left" src="https://raw.githubusercontent.com/dangcao410/github-profile-summary/master/profile-summary-card-output/solarized/1-repos-per-language.svg">
 
-<img width="48%" align="right" src="https://raw.githubusercontent.com/dangcao410/github-profile-summary/master/profile-summary-card-output/solarized/2-most-commit-language.svg">
+<img width="48%" src="https://raw.githubusercontent.com/dangcao410/github-profile-summary/master/profile-summary-card-output/solarized/2-most-commit-language.svg">
 
 ---
 ![](https://komarev.com/ghpvc/?username=dangcao410&color=blue)
