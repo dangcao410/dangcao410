@@ -167,6 +167,14 @@
 -->
 
 ---
+
+<h3>Public repositories</h3>
+
+![](https://raw.githubusercontent.com/dangcao410/github-profile-summary/master/profile-summary-card-output/solarized/0-profile-details.svg)
+
+
+
+---
 ![](https://komarev.com/ghpvc/?username=dangcao410&color=blue)
 ![](https://img.shields.io/github/followers/dangcao410?color=green&logo=github)
 ![Made with love in Vietnam](https://madewithlove.now.sh/vn?heart=true)
