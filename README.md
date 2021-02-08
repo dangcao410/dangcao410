@@ -179,9 +179,9 @@
 
 ---
 <img align="left" src="https://komarev.com/ghpvc/?username=dangcao410&color=blue">
+<img align="left" src="https://img.shields.io/github/followers/dangcao410?color=green&logo=github">
+<img align="left" src="https://madewithlove.now.sh/vn?heart=true">
 
-![](https://img.shields.io/github/followers/dangcao410?color=green&logo=github)
-![Made with love in Vietnam](https://madewithlove.now.sh/vn?heart=true)
 
 
 <!--
