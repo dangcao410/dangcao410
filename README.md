@@ -27,6 +27,23 @@
 <img src="img/nodejs.png" width="30" height="30" alt="NodeJS" align="left"/>
 <img src="img/vuejs.svg" width="30" height="30" alt="VueJS"/>
 
+<h3>Databases</h3>
+<img src="img/sql-server.png" width="30" height="30" alt="SQL Server" align="left"/>
+<img src="img/mySql.png" width="30" height="30" alt="MySQL" align="left"/>
+<img src="img/mongodb.svg" width="30" height="30" alt="MongoDB" />
+
+<h3>Others</h3>
+<table>
+<img src="img/git.png" width="30" height="30" alt="Git" align="left"/>
+<img src="img/github.png" width="30" height="30" alt="GitHub" align="left"/>
+<img src="img/gitlab.png" width="30" height="30" alt="GitLab" align="left"/>
+<img src="img/visual-studio-code.svg" width="30" height="30" alt="Visual Studio Code" align="left"/>
+<img src="img/webstorm-logo.png" width="30" height="30" alt="WebStorm" align="left"/>
+<img src="img/phpstorm-logo.png" width="30" height="30" alt="PHPStorm" align="left"/>
+<img src="img/postman.svg" width="30" height="30" alt="Postman" align="left"/>
+<img src="img/photoshop.png" width="30" height="30" alt="Photoshop" />
+
+
 <!--
 
 ---
