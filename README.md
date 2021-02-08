@@ -151,9 +151,21 @@
 
 <h3>Hobbies</h3>
 
+:soccer: Football
+:video_game: Games
+:book: Books
+:clapper: Movies
+:telescope: Stargazing
+:camera: Photography
+:earth_asia: Travelling
+
+
+<!--
 | :soccer: | :video_game: | :book: | :clapper: | :telescope: | :camera: | :earth_asia: |
 | --- | --- | --- | --- | --- | --- | --- |
 | Football | Games  | Books | Movies | Stargazing | Photography | Travelling |
+-->
+
 
 <br>
 
