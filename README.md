@@ -170,7 +170,7 @@
 
 <h3>Public repositories</h3>
 
-<img width="90%" align="left" src="https://raw.githubusercontent.com/dangcao410/github-profile-summary/master/profile-summary-card-output/solarized/0-profile-details.svg">
+<img width="96%" align="left" src="https://raw.githubusercontent.com/dangcao410/github-profile-summary/master/profile-summary-card-output/solarized/0-profile-details.svg">
 
 <img width="48%" align="left" src="https://raw.githubusercontent.com/dangcao410/github-profile-summary/master/profile-summary-card-output/solarized/1-repos-per-language.svg">
 
