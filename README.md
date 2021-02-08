@@ -12,7 +12,8 @@
 
 ---
 
-
+<br>
+<br>
 <img align="right" alt="GIF" src="img/code.gif?raw=true" width="300"/>
 
 
