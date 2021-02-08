@@ -18,14 +18,14 @@
 
 <h3>Languages and Frameworks</h3>
 <img src="img/c-language-logo.png" width="30" height="30" alt="C" align="left"/>
-<img src="img/html-final.png" width="30" height="30" alt="HTML5" align="left" />
-<img src="img/css-final.png" width="30" height="30" alt="CSS3" />
-<img src="img/javascript-final.png" width="30" height="30" alt="JavaScript" />
-<img src="img/jquery.png" width="30" height="30" alt="jQuery" />
-<img src="img/bootstrap.svg" width="30" height="30" alt="Bootstrap" />
-<img src="img/laravel.svg" width="30" height="30" alt="Laravel" />
-<img src="img/nodejs.png" width="30" height="30" alt="NodeJS" />
-<img src="img/vuejs.svg" width="30" height="30" alt="VueJS" />
+<img src="img/html-final.png" width="30" height="30" alt="HTML5" align="left"/>
+<img src="img/css-final.png" width="30" height="30" alt="CSS3" align="left"/>
+<img src="img/javascript-final.png" width="30" height="30" alt="JavaScript" align="left"/>
+<img src="img/jquery.png" width="30" height="30" alt="jQuery" align="left"/>
+<img src="img/bootstrap.svg" width="30" height="30" alt="Bootstrap" align="left"/>
+<img src="img/laravel.svg" width="30" height="30" alt="Laravel" align="left"/>
+<img src="img/nodejs.png" width="30" height="30" alt="NodeJS" align="left"/>
+<img src="img/vuejs.svg" width="30" height="30" alt="VueJS" align="left"/>
 
 <!--
 
