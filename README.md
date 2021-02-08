@@ -17,6 +17,13 @@
 ---
 
 <h3>Languages and Frameworks</h3>
+
+
+<!--
+
+---
+
+<h3>Languages and Frameworks</h3>
 <table>
   <tr>
     <td align="center" width="96">
@@ -114,7 +121,7 @@
   </tr>
 </table>
 <br>
-
+-->
 ---
 
 <h3>Hobbies</h3>
