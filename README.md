@@ -37,12 +37,12 @@
 <img src="img/git.png" width="30" height="30" alt="Git" align="left"/>
 <img src="img/github.png" width="30" height="30" alt="GitHub" align="left"/>
 <img src="img/gitlab.png" width="30" height="30" alt="GitLab" align="left"/>
-<img src="img/visual-studio-code.svg" width="30" height="30" alt="Visual Studio Code" align="left"/>
-<img src="img/webstorm-logo.png" width="30" height="30" alt="WebStorm" align="left"/>
-<img src="img/phpstorm-logo.png" width="30" height="30" alt="PHPStorm" align="left"/>
 <img src="img/postman.svg" width="30" height="30" alt="Postman" align="left"/>
-<img src="img/photoshop.png" width="30" height="30" alt="Photoshop" />
 
+[comment]: <> (<img src="img/visual-studio-code.svg" width="30" height="30" alt="Visual Studio Code" align="left"/>)
+[comment]: <> (<img src="img/webstorm-logo.png" width="30" height="30" alt="WebStorm" align="left"/>)
+[comment]: <> (<img src="img/phpstorm-logo.png" width="30" height="30" alt="PHPStorm" align="left"/>)
+[comment]: <> (<img src="img/photoshop.png" width="30" height="30" alt="Photoshop" />)
 
 <!--
 
