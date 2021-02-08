@@ -25,7 +25,7 @@
 <img src="img/bootstrap.svg" width="30" height="30" alt="Bootstrap" align="left"/>
 <img src="img/laravel.svg" width="30" height="30" alt="Laravel" align="left"/>
 <img src="img/nodejs.png" width="30" height="30" alt="NodeJS" align="left"/>
-<img src="img/vuejs.svg" width="30" height="30" alt="VueJS" align="left"/>
+<img src="img/vuejs.svg" width="30" height="30" alt="VueJS"/>
 
 <!--
 
