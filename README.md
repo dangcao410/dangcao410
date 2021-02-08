@@ -170,21 +170,17 @@
 
 <h3>Public repositories</h3>
 
-<img width="100%" align="left" src="https://raw.githubusercontent.com/dangcao410/github-profile-summary/master/profile-summary-card-output/solarized/0-profile-details.svg">
+<img width="100%" align="center" src="https://raw.githubusercontent.com/dangcao410/github-profile-summary/master/profile-summary-card-output/solarized/0-profile-details.svg">
 
-<img width="47%" align="left" src="https://raw.githubusercontent.com/dangcao410/github-profile-summary/master/profile-summary-card-output/solarized/1-repos-per-language.svg">
+<img width="48%" align="left" src="https://raw.githubusercontent.com/dangcao410/github-profile-summary/master/profile-summary-card-output/solarized/1-repos-per-language.svg">
 
-<img width="47%" align="right" src="https://raw.githubusercontent.com/dangcao410/github-profile-summary/master/profile-summary-card-output/solarized/2-most-commit-language.svg">
+<img width="48%" src="https://raw.githubusercontent.com/dangcao410/github-profile-summary/master/profile-summary-card-output/solarized/2-most-commit-language.svg">
 
-<br>
 
 ---
-
-<img align="left" src="https://komarev.com/ghpvc/?username=dangcao410&color=blue">
-<img align="left" src="https://img.shields.io/github/followers/dangcao410?color=green&logo=github">
-<img align="left" src="https://madewithlove.now.sh/vn?heart=true">
-
-
+![](https://komarev.com/ghpvc/?username=dangcao410&color=blue)
+![](https://img.shields.io/github/followers/dangcao410?color=green&logo=github)
+![Made with love in Vietnam](https://madewithlove.now.sh/vn?heart=true)
 
 
 <!--
