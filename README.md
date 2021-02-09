@@ -10,7 +10,7 @@
 
 ---
 
-<img align="right" alt="GIF" src="img/code.gif?raw=true" width="350"/>
+<img align="right" alt="GIF" src="img/code.gif?raw=true" width="40%"/>
 
 [comment]: <> (<img align="right" alt="GIF" src="img/code2.gif" width="380"/>)
 
