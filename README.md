@@ -9,7 +9,7 @@
 
 ---
 
-<img align="right" alt="GIF" src="img/code.gif?raw=true" width="40%"/>
+<img align="right" alt="GIF" src="img/code.gif?raw=true" width="42%"/>
 
 [comment]: <> (<img align="right" alt="GIF" src="img/code2.gif" width="380"/>)
 
@@ -170,13 +170,15 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/dangcao410/dangcao410/main/profile-summary-card-output/solarized/0-profile-details.svg"></p>
 
-<img width="48%" align="left" src="https://raw.githubusercontent.com/dangcao410/dangcao410/main/profile-summary-card-output/solarized/1-repos-per-language.svg">
+<img align="left" src="https://raw.githubusercontent.com/dangcao410/dangcao410/main/profile-summary-card-output/solarized/1-repos-per-language.svg">
+
+<img align="" src="https://raw.githubusercontent.com/dangcao410/dangcao410/main/profile-summary-card-output/github/3-stats.svg"/>
+
 
 <img width="48%" src="https://raw.githubusercontent.com/dangcao410/dangcao410/main/profile-summary-card-output/solarized/2-most-commit-language.svg">
 
 <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangcao410"/>
 
-<img align="" src="https://raw.githubusercontent.com/dangcao410/dangcao410/main/profile-summary-card-output/github/3-stats.svg"/>
 
 
 ---
