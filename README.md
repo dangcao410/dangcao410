@@ -1,7 +1,7 @@
 <img src="img/header.png"/>
 <h1 align="center"><img src="img/blob-sunglasses.gif" width="30"/> Hi, I'm Dang Cao 👋</h1>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=dangcao410" />
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=dangcao410" />
 <h3>Spotify Playing 🎧</h3>
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="50%" />](https://open.spotify.com/user/gi6upvf6pdz21r9savqqibyru)
