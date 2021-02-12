@@ -170,7 +170,7 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/dangcao410/dangcao410/main/profile-summary-card-output/solarized/0-profile-details.svg"></p>
 
-<img align="left" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=dangcao410"/>
+<img align="left" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=dangcao410"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangcao410&layout=compact"/>
 
 ---
