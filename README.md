@@ -5,7 +5,7 @@
 <img align="right" src="https://raw.githubusercontent.com/dangcao410/dangcao410/main/profile-summary-card-output/github/3-stats.svg">
 <h3>Spotify Playing 🎧</h3>
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="600" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="70%" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ---
 
