@@ -1,8 +1,7 @@
 <img src="img/header.png"/>
 <h1 align="center"><img src="img/blob-sunglasses.gif" width="30"/> Hi, I'm Dang Cao 👋</h1>
 
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangcao410"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=dangcao410" />
 <h3>Spotify Playing 🎧</h3>
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="50%" />](https://open.spotify.com/user/gi6upvf6pdz21r9savqqibyru)
@@ -196,10 +195,6 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://github.com/Zhenye-Na/Zhenye-Na">
-</a>
+<img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangcao410"/>
 
-<a href="https://github.com/Zhenye-Na/Zhenye-Na">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dangcao410&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Zhenye's GitHub Stats" />
-</a>
 
