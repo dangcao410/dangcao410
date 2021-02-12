@@ -175,6 +175,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangcao410&layout=compact"/>
 </p>
 
+![HoangTran's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dangcao410&theme=tokyonight)
+
 ---
 ![](https://komarev.com/ghpvc/?username=dangcao410&color=blue)
 ![](https://img.shields.io/github/followers/dangcao410?color=green&logo=github)
