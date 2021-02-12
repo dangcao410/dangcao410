@@ -168,10 +168,7 @@
 ---
 <h3>Public repositories</h3>
 
-<img align="left" src="https://raw.githubusercontent.com/dangcao410/dangcao410/main/profile-summary-card-output/solarized/0-profile-details.svg">
-
-<img src="https://raw.githubusercontent.com/dangcao410/dangcao410/main/profile-summary-card-output/github/3-stats.svg">
-
+<p align="center"><img src="https://raw.githubusercontent.com/dangcao410/dangcao410/main/profile-summary-card-output/solarized/0-profile-details.svg"></p>
 
 <img width="48%" align="left" src="https://raw.githubusercontent.com/dangcao410/dangcao410/main/profile-summary-card-output/solarized/1-repos-per-language.svg">
 
