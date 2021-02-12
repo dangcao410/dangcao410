@@ -3,12 +3,13 @@
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=dangcao410" />
 <h3>Spotify Playing 🎧</h3>
+<br>
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="45%" />](https://open.spotify.com/user/gi6upvf6pdz21r9savqqibyru)
 
 ---
 
-<img align="right" alt="GIF" src="img/code.gif?raw=true" width="350"/>
+<img align="right" alt="GIF" src="img/code.gif?raw=true" width="30%"/>
 
 [comment]: <> (<img align="right" alt="GIF" src="img/code2.gif" width="380"/>)
 
