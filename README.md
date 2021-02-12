@@ -9,7 +9,7 @@
 
 ---
 
-<img align="right" alt="GIF" src="img/code.gif?raw=true" width="42%"/>
+<img align="right" alt="GIF" src="img/code.gif?raw=true" width="40%"/>
 
 [comment]: <> (<img align="right" alt="GIF" src="img/code2.gif" width="380"/>)
 
@@ -174,6 +174,11 @@
 
 <img width="48%" src="https://raw.githubusercontent.com/dangcao410/dangcao410/main/profile-summary-card-output/solarized/2-most-commit-language.svg">
 
+<img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangcao410"/>
+
+<img align="" src="https://raw.githubusercontent.com/dangcao410/dangcao410/main/profile-summary-card-output/github/3-stats.svg"/>
+
+
 ---
 ![](https://komarev.com/ghpvc/?username=dangcao410&color=blue)
 ![](https://img.shields.io/github/followers/dangcao410?color=green&logo=github)
@@ -194,8 +199,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangcao410"/>
-
-
