@@ -2,8 +2,8 @@
 <h1 align="center"><img src="img/blob-sunglasses.gif" width="30"/> Hi, I'm Dang Cao 👋</h1>
 
 
-<img align="right" src="https://raw.githubusercontent.com/dangcao410/dangcao410/main/profile-summary-card-output/github/3-stats.svg">
-<br>
+
+![<img src="https://raw.githubusercontent.com/dangcao410/dangcao410/main/profile-summary-card-output/github/3-stats.svg">](){.callout}
 
 <h3>Spotify Playing 🎧</h3>
 <br>
@@ -197,3 +197,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+.callout {
+float: right;
+}
