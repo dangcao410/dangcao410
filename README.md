@@ -3,10 +3,11 @@
 
 
 <p align="right" width="50%"><img src="https://raw.githubusercontent.com/dangcao410/dangcao410/main/profile-summary-card-output/github/3-stats.svg"></p>
-<h3>Spotify Playing 🎧</h3>
-<br>
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+<p align="left" width="50%">
+    <h3>Spotify Playing 🎧</h3>
+    <br>
+    [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)</p>
 
 ---
 
