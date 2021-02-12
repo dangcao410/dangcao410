@@ -172,10 +172,9 @@
 
 <img align="left" src="https://raw.githubusercontent.com/dangcao410/dangcao410/main/profile-summary-card-output/solarized/1-repos-per-language.svg">
 
-<img align="" src="https://raw.githubusercontent.com/dangcao410/dangcao410/main/profile-summary-card-output/github/3-stats.svg"/>
+<img align="center" src="https://raw.githubusercontent.com/dangcao410/dangcao410/main/profile-summary-card-output/github/3-stats.svg"/>
 
-
-<img width="48%" src="https://raw.githubusercontent.com/dangcao410/dangcao410/main/profile-summary-card-output/solarized/2-most-commit-language.svg">
+<img align="right" src="https://raw.githubusercontent.com/dangcao410/dangcao410/main/profile-summary-card-output/solarized/2-most-commit-language.svg">
 
 <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangcao410"/>
 
