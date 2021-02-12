@@ -2,13 +2,11 @@
 <h1 align="center"><img src="img/blob-sunglasses.gif" width="30"/> Hi, I'm Dang Cao 👋</h1>
 
 
-
-![<img src="https://raw.githubusercontent.com/dangcao410/dangcao410/main/profile-summary-card-output/github/3-stats.svg">](){.callout}
-
+<img align="right" src="https://raw.githubusercontent.com/dangcao410/dangcao410/main/profile-summary-card-output/github/3-stats.svg">
 <h3>Spotify Playing 🎧</h3>
 <br>
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="400" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="450" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ---
 
@@ -197,7 +195,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-.callout {
-float: right;
-}
