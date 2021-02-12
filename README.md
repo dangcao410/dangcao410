@@ -2,10 +2,10 @@
 <h1 align="center"><img src="img/blob-sunglasses.gif" width="30"/> Hi, I'm Dang Cao 👋</h1>
 
 
-<img align="right" src="https://raw.githubusercontent.com/dangcao410/dangcao410/main/profile-summary-card-output/github/3-stats.svg">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangcao410"/>
 <h3>Spotify Playing 🎧</h3>
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="70%" />](https://open.spotify.com/user/gi6upvf6pdz21r9savqqibyru)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="50%" />](https://open.spotify.com/user/gi6upvf6pdz21r9savqqibyru)
 
 ---
 
@@ -197,11 +197,9 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/Zhenye-Na/Zhenye-Na">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangcao410&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Zhenye's GitHub Stats" />
 </a>
 
 <a href="https://github.com/Zhenye-Na/Zhenye-Na">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dangcao410&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Zhenye's GitHub Stats" />
 </a>
 
-[![zhenye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dangcao410&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116)](https://github.com/anuraghazra/github-readme-stats)
