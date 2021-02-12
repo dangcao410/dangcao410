@@ -170,9 +170,8 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/dangcao410/dangcao410/main/profile-summary-card-output/solarized/0-profile-details.svg"></p>
 
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangcao410&layout=compact"/>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dangcao410"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangcao410&layout=compact"/>
 
 ---
 ![](https://komarev.com/ghpvc/?username=dangcao410&color=blue)
