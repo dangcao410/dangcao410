@@ -203,3 +203,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/Zhenye-Na/Zhenye-Na">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dangcao410&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Zhenye's GitHub Stats" />
 </a>
+
+[![zhenye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dangcao410&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116)](https://github.com/anuraghazra/github-readme-stats)
