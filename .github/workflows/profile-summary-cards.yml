@@ -3,7 +3,7 @@ name: GitHub-Profile-Summary-Cards
 on:
   create:
   push:
-  schedule: # execute every 5 minutes
+  schedule: # execute every 1 minute
     - cron: "* * * * *"
   workflow_dispatch:
 
