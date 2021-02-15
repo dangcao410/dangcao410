@@ -147,8 +147,26 @@
 </table>
 <br>
 -->
+
 ---
 
+<h3>Public repositories</h3>
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/dangcao410/dangcao410/main/profile-summary-card-output/solarized/0-profile-details.svg">
+</p>
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/dangcao410/dangcao410/main/profile-summary-card-output/default/1-repos-per-language.svg">
+    <img src="https://raw.githubusercontent.com/dangcao410/dangcao410/main/profile-summary-card-output/default/2-most-commit-language.svg">
+</p>
+
+---
+<h3>🏆 GitHub Trophies</h3>
+
+<img src="https://github-profile-trophy.vercel.app/?username=dangcao410&column=7&margin-w=15"/>
+
+---
 <h3>Hobbies</h3>
 
 :soccer: &nbsp; &nbsp;
@@ -165,23 +183,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | Football | Games  | Books | Movies | Stargazing | Photography | Travelling |
 -->
-
----
-<h3>Public repositories</h3>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/dangcao410/dangcao410/main/profile-summary-card-output/solarized/0-profile-details.svg">
-</p>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/dangcao410/dangcao410/main/profile-summary-card-output/default/1-repos-per-language.svg">
-    <img src="https://raw.githubusercontent.com/dangcao410/dangcao410/main/profile-summary-card-output/default/2-most-commit-language.svg">
-</p>
-
----
-<h3>🏆 GitHub Trophies</h3>
-
-<img src="https://github-profile-trophy.vercel.app/?username=dangcao410&column=7&margin-w=15"/>
 
 ---
 ![](https://komarev.com/ghpvc/?username=dangcao410&color=blue)
