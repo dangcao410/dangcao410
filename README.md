@@ -1,19 +1,4 @@
 <img src="img/header.png"/>
-
-<pre>
-      ___           ___           ___       ___       ___     
-     /\__\         /\  \         /\__\     /\__\     /\  \    
-    /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
-   /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
-  /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
- /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
- \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
-      \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
-      /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
-     /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
-     \/__/         \/__/         \/__/     \/__/     \/__/    
-</pre>
-
 <h1 align="center"><img src="img/blob-sunglasses.gif" width="30"/> Hi, I'm Dang Cao 👋</h1>
 
 
@@ -193,7 +178,10 @@
     <img src="https://raw.githubusercontent.com/dangcao410/dangcao410/main/profile-summary-card-output/default/2-most-commit-language.svg">
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=dangcao410&theme=nord&column=7)
+---
+<h3>🏆 GitHub Trophies</h3>
+
+<img src="https://github-profile-trophy.vercel.app/?username=dangcao410"/>
 
 ---
 ![](https://komarev.com/ghpvc/?username=dangcao410&color=blue)
