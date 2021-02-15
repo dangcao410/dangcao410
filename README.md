@@ -6,9 +6,9 @@
 <p align="left">
 <h3>Spotify Playing 🎧</h3>
 <br>
-<img width="20%" src="https://now-playing-codestackr.vercel.app/api/spotify-playing"/></p>
+<img width="50%" src="https://now-playing-codestackr.vercel.app/api/spotify-playing"/></p>
 
-<p align="right"><img width="20%" src="https://github-readme-stats.vercel.app/api?username=dangcao410" /></p>
+<img align="right" width="20%" src="https://github-readme-stats.vercel.app/api?username=dangcao410" />
 
 
 ---
