@@ -2,31 +2,14 @@
 <h1 align="center"><img src="img/blob-sunglasses.gif" width="30"/> Hi, I'm Dang Cao 👋</h1>
 
 
-<div style="display: flex; align-items: flex-start;">
-    <div width="40%">
-        98798798797
-    </div>
-    <div width="40%">
-        080-90--0
-    </div>
-</div>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=dangcao410" />
+
+<h3>Spotify Playing 🎧</h3>
+<br>
+<img align="left" src="https://now-playing-codestackr.vercel.app/api/spotify-playing"/>
 
 
-
-
-
-<table>
-  <tr>
-    <td valign="top">
-        <h3>Spotify Playing 🎧</h3>
-        <br>
-        <img width="50%" src="https://now-playing-codestackr.vercel.app/api/spotify-playing"/>
-    </td>
-    <td valign="top">
-        <img src="https://raw.githubusercontent.com/dangcao410/dangcao410/main/profile-summary-card-output/github/3-stats.svg"/>
-    </td>
-  </tr>
-</table>
 
 ---
 
