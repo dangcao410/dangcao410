@@ -181,7 +181,7 @@
 ---
 <h3>🏆 GitHub Trophies</h3>
 
-<img src="https://github-profile-trophy.vercel.app/?username=dangcao410"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dangcao410&column=7&margin-w=15"/>
 
 ---
 ![](https://komarev.com/ghpvc/?username=dangcao410&color=blue)
