@@ -4,12 +4,11 @@
 
 
 <p align="center">
+<h3>Spotify Playing 🎧</h3>
+<br>
+<img width="50%" src="https://now-playing-codestackr.vercel.app/api/spotify-playing"/>
 
-<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing"/>
-
-<img src="https://raw.githubusercontent.com/dangcao410/dangcao410/main/profile-summary-card-output/github/3-stats.svg" />
-
-</p>
+<img src="https://raw.githubusercontent.com/dangcao410/dangcao410/main/profile-summary-card-output/github/3-stats.svg" /></p>
 
 ---
 
