@@ -211,5 +211,7 @@ Here are some ideas to get you started:
 -->
 
 img[src$="centerme"] {
-    float: right;
+display:block;
+margin: 0 auto;
+
 }
