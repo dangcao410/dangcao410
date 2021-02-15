@@ -1,11 +1,15 @@
 <img src="img/header.png"/>
 <h1 align="center"><img src="img/blob-sunglasses.gif" width="30"/> Hi, I'm Dang Cao 👋</h1>
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=dangcao410" />
+
+
+<p align="left" width="50%">
 <h3>Spotify Playing 🎧</h3>
 <br>
+<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing"/></p>
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="45%" />](https://open.spotify.com/user/gi6upvf6pdz21r9savqqibyru)
+<p align="right" width="50%"><img src="https://github-readme-stats.vercel.app/api?username=dangcao410" /></p>
+
 
 ---
 
