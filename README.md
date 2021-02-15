@@ -2,12 +2,17 @@
 <h1 align="center"><img src="img/blob-sunglasses.gif" width="30"/> Hi, I'm Dang Cao 👋</h1>
 
 
-<div align="left" width="40%">
-98798798797
+<div style="display: flex; align-items: flex-start;">
+    <div width="40%">
+        98798798797
+    </div>
+    <div width="40%">
+        080-90--0
+    </div>
 </div>
-<div align="right" width="40%">
-080-90--0
-</div>
+
+
+
 
 
 <table>
