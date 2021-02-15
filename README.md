@@ -6,7 +6,7 @@
 
 <h3>Spotify Playing 🎧</h3>
 <br>
-<img src="https://novatorem.dangcao410.vercel.app/api/spotify"/>
+<img src="https://novatorem-three-rho.vercel.app/api/spotify"/>
 
 ---
 
