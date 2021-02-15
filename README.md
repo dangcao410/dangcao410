@@ -47,7 +47,6 @@
 <!--
 
 ---
-
 <h3>Languages and Frameworks</h3>
 <table>
   <tr>
@@ -149,7 +148,6 @@
 -->
 
 ---
-
 <h3>Public repositories</h3>
 
 <p align="center">
@@ -167,7 +165,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=dangcao410&column=7&margin-w=15"/>
 
 ---
-
 <h3>Hobbies</h3>
 
 :soccer: &nbsp; &nbsp;
