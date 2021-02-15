@@ -167,6 +167,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=dangcao410&column=7&margin-w=15"/>
 
 ---
+
 <h3>Hobbies</h3>
 
 :soccer: &nbsp; &nbsp;
@@ -176,7 +177,6 @@
 :telescope: &nbsp; &nbsp;
 :camera: &nbsp; &nbsp;
 :earth_asia:
-
 
 <!--
 | :soccer: | :video_game: | :book: | :clapper: | :telescope: | :camera: | :earth_asia: |
