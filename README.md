@@ -2,7 +2,12 @@
 <h1 align="center"><img src="img/blob-sunglasses.gif" width="30"/> Hi, I'm Dang Cao 👋</h1>
 
 
-
+<div float="left" width="40%">
+98798798797
+</div>
+<div float="right" width="40%">
+080-90--0
+</div>
 
 
 <table>
