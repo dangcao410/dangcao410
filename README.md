@@ -7,7 +7,7 @@
 
 <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=dangcao410" />
+<img src="https://raw.githubusercontent.com/dangcao410/dangcao410/main/profile-summary-card-output/github/3-stats.svg" />
 
 </p>
 
