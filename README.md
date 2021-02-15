@@ -211,5 +211,5 @@ Here are some ideas to get you started:
 -->
 
 img[src$="centerme"] {
-    align: right;
+    float: right;
 }
