@@ -3,12 +3,13 @@
 
 
 
-<p align="center" width="50%">
-<h3>Spotify Playing 🎧</h3>
-<br>
-<img width="50%" src="https://now-playing-codestackr.vercel.app/api/spotify-playing"/>
+<p align="center">
 
-<img align="" width="20%" src="https://github-readme-stats.vercel.app/api?username=dangcao410" /></p>
+<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=dangcao410" />
+
+</p>
 
 ---
 
