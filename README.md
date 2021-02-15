@@ -178,14 +178,7 @@
     <img src="https://raw.githubusercontent.com/dangcao410/dangcao410/main/profile-summary-card-output/default/2-most-commit-language.svg">
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dangcao410&theme=nord&column=7)]
-
-
-
-<p align="center">
-    <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=dangcao410"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangcao410&layout=compact"/>
-</p>
+![trophy](https://github-profile-trophy.vercel.app/?username=dangcao410&theme=nord&column=7)
 
 ---
 ![](https://komarev.com/ghpvc/?username=dangcao410&color=blue)
