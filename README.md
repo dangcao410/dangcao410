@@ -8,6 +8,7 @@
 <br>
 <img src="https://novatorem.vercel.app/api/spotify" />
 
+
 ---
 
 <img align="right" alt="GIF" src="img/code.gif?raw=true" width="42%"/>
