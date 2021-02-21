@@ -182,6 +182,18 @@
 -->
 
 ---
+
+<h3>💙 Remember</h3>
+
+```
+  _ __   _____   _____ _ __    ___  __ _ _   _    _ __   _____   _____ _ __
+ | '_ \ / _ \ \ / / _ \ '__|  / __|/ _` | | | |  | '_ \ / _ \ \ / / _ \ '__|
+ | | | |  __/\ V /  __/ |     \__ \ (_| | |_| |  | | | |  __/\ V /  __/ |
+ |_| |_|\___| \_/ \___|_|     |___/\__,_|\__, |  |_| |_|\___| \_/ \___|_|
+                                         |___/
+```
+
+---
 ![](https://komarev.com/ghpvc/?username=dangcao410&color=blue)
 ![](https://img.shields.io/github/followers/dangcao410?color=green&logo=github)
 ![Made with love in Vietnam](https://madewithlove.now.sh/vn?heart=true)
